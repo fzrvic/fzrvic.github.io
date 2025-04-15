@@ -1,6 +1,6 @@
 baseURL = 'https://vickyfaz.dev/'
 languageCode = 'en-us'
-title = 'Tech Journal'
+title = 'Vick Tech Journal'
 theme = 'typo'
 
 # Google analytics code
@@ -16,7 +16,7 @@ description = "A Tech Blog"
 # Appearance settings
 theme = 'auto'
 colorPalette = 'default'
-hideHeader = false
+hideHeader = true
 
 # Intro on main page, content is markdown
 homeIntroTitle = 'Hi!'
@@ -34,7 +34,7 @@ listDateFormat = '2 Jan 2006'
 
 # Breadcrumbs
 [params.breadcrumbs]
-enabled = false
+enabled = true
 showCurrentPage = true
 home = "Home"
 
